@@ -1,0 +1,17 @@
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/bin/Debug/GemCacher.deps.json
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/bin/Debug/GemCacher.runtimeconfig.json
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/bin/Debug/GemCacher.dll
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/bin/Debug/GemCacher.pdb
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.csproj.AssemblyReference.cache
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.AssemblyInfoInputs.cache
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.AssemblyInfo.cs
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.csproj.CoreCompileInputs.cache
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.csproj.Up2Date
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.dll
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/refint/GemCacher.dll
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.pdb
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.genruntimeconfig.cache
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/ref/GemCacher.dll
