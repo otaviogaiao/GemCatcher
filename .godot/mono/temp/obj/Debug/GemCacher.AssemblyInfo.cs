@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GemCacher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d52dfc427fffd64f3cf34794b57ddeb9f0a9a3ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("GemCacher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GemCacher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

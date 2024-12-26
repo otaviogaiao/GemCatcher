@@ -15,3 +15,4 @@
 /Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.pdb
 /Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.genruntimeconfig.cache
 /Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/ref/GemCacher.dll
+/Users/otaviogaiao/Projects/GameDev/GemCacher/.godot/mono/temp/obj/Debug/GemCacher.sourcelink.json

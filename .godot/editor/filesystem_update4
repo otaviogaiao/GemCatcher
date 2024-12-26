@@ -4,3 +4,4 @@ res://Scenes/Paddle/Paddle.tscn
 res://Scenes/Gem/CollisionShape2d.tscn
 res://Scenes/Gem/Gem.tscn
 res://Scenes/Paddle/Paddle.cs
+res://Scenes/Gem/Gem.cs
