@@ -6,10 +6,12 @@ public partial class Paddle : Area2D
 	[Export] private float _speed = 100.0f;
 	[Export] private float _margin = 50f;
 	
-	
+	[Signal]
+	public delegate void ScoredEventHandler();
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
 	{
+		AreaEntered += OnAreaEntered;
 	}
 	
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -39,5 +41,12 @@ public partial class Paddle : Area2D
 		{
 			Position = new Vector2(vpr.End.X - _margin, Position.Y);
 		}
+	}
+	
+	private void OnAreaEntered(Area2D area)
+	{
+		GD.Print("Scored!");
+		EmitSignal(SignalName.Scored);
+		area.QueueFree();
 	}
 }
